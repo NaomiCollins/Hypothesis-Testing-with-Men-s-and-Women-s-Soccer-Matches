@@ -32,7 +32,7 @@ This approach allowed me to rigorously determine whether there is statistical ev
 
 🔍 Key Skills
 
-Statistical hypothesis testing
-Data analysis and cleaning in R
-Sports analytics & data storytelling
+Statistical hypothesis testing / 
+Data analysis and cleaning in R / 
+Sports analytics & data storytelling / 
 Working with historical sports datasets
